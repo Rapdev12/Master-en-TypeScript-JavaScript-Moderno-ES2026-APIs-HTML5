@@ -1,4 +1,4 @@
-# TypeScript, Modern JavaScript, ES2026, and HTML5 APIs Masterclass
+
 
 <div align="center">
 
